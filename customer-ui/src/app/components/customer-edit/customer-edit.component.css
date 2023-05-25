@@ -1,0 +1,36 @@
+.btn {
+    background-color: lightcoral;
+}
+
+.pull-right {
+    float: left;
+}
+
+.margin {
+    margin-top: 20px;
+}
+
+
+/*.form-group {
+    margin: 10px;
+}*/
+
+.align {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.addressess {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.addMore {
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.add {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
